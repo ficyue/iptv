@@ -124,15 +124,23 @@ http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225929/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏体育休闲
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225935/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",无锡新闻综合
-http://stream.wifiwx.com/wxtv1/sd/live.m3u8?_upt=796c47c31628762365
+http://149.129.100.78/wuxi.php?id=wxtv1&type=tv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",无锡都市资讯
-http://stream.wifiwx.com/wxtv3/sd/live.m3u8?_upt=560ac23c1628762392
+http://149.129.100.78/wuxi.php?id=wxtv3&type=tv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",无锡娱乐频道
-http://stream.wifiwx.com/wxtv2/sd/live.m3u8?_upt=15cbe8a01628762407
+http://149.129.100.78/wuxi.php?id=wxtv2&type=tv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",无锡经济频道
-http://stream.wifiwx.com/wxtv5/sd/live.m3u8?_upt=3af7111f1628762422
+http://149.129.100.78/wuxi.php?id=wxtv5&type=tv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",无锡生活频道
-http://stream.wifiwx.com/wxtv4/sd/live.m3u8?_upt=b553abda1628762434
+http://149.129.100.78/wuxi.php?id=wxtv4&type=tv
+#EXTINF:-1 tvg-id="SuZhouWenHuaShengHuo.cn" tvg-name="苏州文化生活" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",苏州文化生活
+http://149.129.100.78/suzhou.php?id=szwhsh
+#EXTINF:-1 tvg-id="SuZhouXinWenZongHe.cn" tvg-name="苏州新闻综合" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",苏州新闻综合
+http://149.129.100.78/suzhou.php?id=szxw
+#EXTINF:-1 tvg-id="SuZhouShengHuoZiXun.cn" tvg-name="苏州生活资讯" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",苏州生活资讯
+http://149.129.100.78/suzhou.php?id=szshzx
+#EXTINF:-1 tvg-id="SuZhouSheHuiJingJi.cn" tvg-name="苏州社会经济" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",苏州社会经济
+http://149.129.100.78/suzhou.php?id=szshjj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南京新闻综合
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南京教科
